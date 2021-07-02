@@ -1,0 +1,11 @@
+{
+  "name": "format-amount",
+  "version": "1.0.0",
+  "description": "A node module that helps format a sum of money",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Williams Alex",
+  "license": "ISC"
+}
